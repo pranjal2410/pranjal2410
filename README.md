@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 My name is Pranjal Newalkar</h1>
 <p align="center">
-I am a full stack web developer currently pursuing a bachelor's degree in Electronics and Telecommunication Engineering from Pune Institute of Computer Technology. I am highly interested in building web applications and services which make use of artificial intelligence and machine learning. I like working under extreme pressure and get out of my comfort zone. Favourite language is python but comfortable with Java and JavaScript as well. I love to play football and watch matches of Real Madrid, listen to music and trekking.
+I am a full stack web developer currently pursuing a Master's degree in Computer Science from San Francisco State University. I am highly motivated in designing and development of applications which solve real world problems and make use of cutting edge/state of the art technologies. I like working under extreme pressure and get out of my comfort zone. Favourite language is python but comfortable with Java and JavaScript as well. I love to play football and watch matches of Real Madrid, listen to music and trekking.
 </p>
 <hr>
 <div align="center">
